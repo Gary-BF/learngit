@@ -1,0 +1,7 @@
+This is git learning file
+
+Git is free software -first version change
+
+git - second version change 
+
+git - third version change
